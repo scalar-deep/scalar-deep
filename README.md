@@ -11,11 +11,18 @@ I'm an AI/ML developer focused on building practical machine learning systems, e
 
 ## Featured Projects
 
-### Nova-V2 — Local AI Assistant
+### [Nova Local AI Assistant — Checkpoint](https://github.com/scalar-deep/nova-local-ai-assistant-checkpoint)
 
-A Raspberry Pi based local AI assistant with wake-word detection, speech-to-text, text-to-speech, local LLM routing, and planned camera/vision support.
+Checkpoint version of my Raspberry Pi local AI assistant, adapted from `pibot_local_agent` and developed into the early Nova assistant foundation.
 
-**Tech:** Python, Raspberry Pi, Ollama, Whisper, Piper TTS
+**Tech:** Python, Raspberry Pi, Ollama, Whisper, Piper TTS, OpenWakeWord
+
+### [Nova-V2 — Local AI Assistant](https://github.com/scalar-deep/nova-v2-local-ai-assistant)
+
+Advanced Nova-V2 local AI assistant development with memory, camera, vision, improved routing, and Raspberry Pi deployment.
+
+**Tech:** Python, Raspberry Pi, Ollama, OpenCV, Piper TTS, OpenWakeWord
+
 
 ### UK Accident Severity Prediction
 
