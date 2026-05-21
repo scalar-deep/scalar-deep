@@ -1,17 +1,17 @@
-# Hi, I'm Arun, 👋
+# Hi, I'm Arun Muthupalaniappan👋
 
 I'm an AI/ML developer focused on building practical machine learning systems, explainable AI projects, and local AI assistant tools.
 
 ## About Me
 
-- Currently building **Nova-AI Chatbot Companion with vision**, a Raspberry Pi based local AI assistant
+- Currently building **Nova-V2**, a Raspberry Pi based local AI assistant
 - Interested in **Machine Learning, Deep Learning, Explainable AI, and Local AI**
 - Working with **Python, Scikit-learn, SHAP, Ollama, Whisper, Piper TTS, and Raspberry Pi**
 - Focused on turning academic and personal projects into clean, usable portfolio work
 
 ## Featured Projects
 
-### Nova — Local AI Assistant
+### Nova-V2 — Local AI Assistant
 
 A Raspberry Pi based local AI assistant with wake-word detection, speech-to-text, text-to-speech, local LLM routing, and planned camera/vision support.
 
@@ -23,6 +23,11 @@ A machine learning project that predicts UK road accident severity using data pr
 
 **Tech:** Python, Pandas, Scikit-learn, SHAP, Imbalanced-learn
 
+### AML Fraud Detection with Deep Learning
+
+A deep learning project for anti-money-laundering fraud detection using the PaySim dataset, class imbalance handling, model evaluation, and SHAP-based interpretation.
+
+**Tech:** Python, Deep Learning, SHAP, SMOTE, PaySim
 
 ## Tech Stack
 
@@ -35,11 +40,11 @@ A machine learning project that predicts UK road accident severity using data pr
 ## Currently Working On
 
 - Improving **Nova-V2** with camera and vision capabilities
-- Improving **NOVA** with emotional cabablities and perform user actions
 - Cleaning and documenting my machine learning portfolio projects
 - Building stronger GitHub repositories with proper READMEs, setup guides, and results
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/arunkumarmuthu264/
+- [GitHub](https://github.com/scalar-deep)
+- [LinkedIn](https://www.linkedin.com/in/arunkumarmuthu264)
 - Email: arunkumar.muthupalaniappan@gmail.com
