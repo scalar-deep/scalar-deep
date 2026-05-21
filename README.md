@@ -41,5 +41,5 @@ A machine learning project that predicts UK road accident severity using data pr
 
 ## Contact
 
-- LinkedIn: add your LinkedIn link here
-- Email: add your email here
+- LinkedIn: https://www.linkedin.com/in/arunkumarmuthu264/
+- Email: arunkumar.muthupalaniappan@gmail.com
